@@ -1,6 +1,6 @@
-# ibmi
+# BMI App
 
-A new Flutter project.
+Calculate your Body Mass Index as a measure of your health
 
 ## Getting Started
 
